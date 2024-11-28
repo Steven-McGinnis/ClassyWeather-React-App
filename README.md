@@ -1,6 +1,6 @@
 # Classy Weather ☀️🌦️🌩️
 
-Classy Weather is a React application that allows users to search for the weather in different locations. It uses the Open-Meteo API to fetch weather data and displays it in a user-friendly format.
+Classy Weather is a React application that allows users to search for the weather in different locations. It uses the Open-Meteo API to fetch weather data and displays it in a user-friendly format. This app specifically uses legacy React class components to manage state and interactions giving me hands on experience with both class and functional components.
 
 ## 📖 About This Project
 
@@ -29,6 +29,7 @@ While developing Classy Weather, I gained hands-on experience with:
 - State management with `useState`.
 - Conditional rendering and error handling.
 - Enhancing UX with loading indicators and error messages.
+- Using legacy React class components.
 
 ## 🛠️ How to Run
 
