@@ -35,11 +35,10 @@ While developing Classy Weather, I gained hands-on experience with:
 To run the app locally:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/classy-weather.git
    ```
-
-````
 
 2. Navigate to the project directory:
    ```bash
@@ -73,9 +72,3 @@ While the current version is fully functional, potential enhancements include:
 ## 🙏 Acknowledgments
 
 A big thank you to Jonas Schmedtmann for designing an engaging and practical React course that bridges foundational learning with real-world applications.
-
-```
-
-Made changes.
-```
-````
