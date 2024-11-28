@@ -1,4 +1,3 @@
-````markdown
 # Classy Weather ☀️🌦️🌩️
 
 Classy Weather is a React application that allows users to search for the weather in different locations. It uses the Open-Meteo API to fetch weather data and displays it in a user-friendly format.
@@ -39,6 +38,7 @@ To run the app locally:
    ```bash
    git clone https://github.com/your-username/classy-weather.git
    ```
+
 ````
 
 2. Navigate to the project directory:
@@ -78,3 +78,4 @@ A big thank you to Jonas Schmedtmann for designing an engaging and practical Rea
 
 Made changes.
 ```
+````
