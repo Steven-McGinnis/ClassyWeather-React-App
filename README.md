@@ -19,6 +19,7 @@ This project helped reinforce foundational and intermediate React concepts throu
 - **Current Weather Conditions**: View current weather conditions including temperature and weather icons.
 - **Weather Forecast**: Show weather forecast for the next few days.
 - **Weather Icons**: Display weather icons based on weather conditions.
+- **Persistent Location**: The app remembers the last searched location using localStorage.
 
 ## 🎓 Concepts Practiced
 
@@ -30,6 +31,7 @@ While developing Classy Weather, I gained hands-on experience with:
 - Conditional rendering and error handling.
 - Enhancing UX with loading indicators and error messages.
 - Using legacy React class components.
+- Persisting state with localStorage.
 
 ## 🛠️ How to Run
 
@@ -59,6 +61,7 @@ The app will be accessible at [http://localhost:3000](http://localhost:3000).
 ## 🧩 Components
 
 - **App.js**: Main application component managing state, interactions, and layout.
+- **Input.js**: Input component for searching locations.
 - **Weather.js**: Displays weather information for a selected location.
 - **Day.js**: A single day weather item display component.
 
